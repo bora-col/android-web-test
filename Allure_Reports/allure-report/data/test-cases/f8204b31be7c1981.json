@@ -1,0 +1,84 @@
+{
+  "uid" : "f8204b31be7c1981",
+  "name" : "test_lock_the_door",
+  "fullName" : "smartdoorlocktestautomation.SmartDoorLock.Integration_Test.embedded_mobile.test_embedded_mobile.TestEmbeddedMobile#test_lock_the_door",
+  "historyId" : "2317a62f6657d1609f3353e788834ea9",
+  "time" : {
+    "start" : 1589892471355,
+    "stop" : 1589892482003,
+    "duration" : 10648
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1589892457512,
+      "stop" : 1589892471353,
+      "duration" : 13841
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "driver::fin",
+    "time" : {
+      "start" : 1589892482004,
+      "stop" : 1589892483010,
+      "duration" : 1006
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "smartdoorlocktestautomation.SmartDoorLock.Integration_Test.embedded_mobile"
+  }, {
+    "name" : "suite",
+    "value" : "test_embedded_mobile"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestEmbeddedMobile"
+  }, {
+    "name" : "host",
+    "value" : "User.local"
+  }, {
+    "name" : "thread",
+    "value" : "18671-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "smartdoorlocktestautomation.SmartDoorLock.Integration_Test.embedded_mobile.test_embedded_mobile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f8204b31be7c1981.json",
+  "parameterValues" : [ ]
+}

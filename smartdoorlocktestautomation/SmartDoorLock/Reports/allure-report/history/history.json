@@ -1,0 +1,232 @@
+{
+  "3b56c85f2e23f13bb9701e1e5e55f97a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "25824d4ada08757b",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: Method is not implemented",
+      "time" : {
+        "start" : 1587782788285,
+        "stop" : 1587782791723,
+        "duration" : 3438
+      }
+    } ]
+  },
+  "f3564dca8442a79e2e1fb7896d66ef94" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8b3003bc5f3c5a59",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587782638815,
+        "stop" : 1587782642685,
+        "duration" : 3870
+      }
+    } ]
+  },
+  "842eb687c9bcf2745c6106eff337274b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6a8a81431fcf50c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587781651239,
+        "stop" : 1587781655070,
+        "duration" : 3831
+      }
+    } ]
+  },
+  "acc7d7466356e3b6bd4b62f174eecff4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3abf8d9b7c7d767",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587782580868,
+        "stop" : 1587782587040,
+        "duration" : 6172
+      }
+    } ]
+  },
+  "f25c36d8e33422220cad01faff18b1f2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fbedf6f9036c68aa",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: Method is not implemented",
+      "time" : {
+        "start" : 1587782744241,
+        "stop" : 1587782747517,
+        "duration" : 3276
+      }
+    } ]
+  },
+  "e48539c482bc68cd885b93b82a6d349f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fd2a20aa4c52dde2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587781752722,
+        "stop" : 1587781756626,
+        "duration" : 3904
+      }
+    } ]
+  },
+  "b2db946ebfaa3fb2d408e2eb13d54299" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bb7577465c7a6260",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587781250794,
+        "stop" : 1587781253716,
+        "duration" : 2922
+      }
+    } ]
+  },
+  "128c9f8255d4b39439d8eef6d19843d3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5d15b943f20d3586",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587771649202,
+        "stop" : 1587771660485,
+        "duration" : 11283
+      }
+    } ]
+  },
+  "7c0a0a071dd15f711d396fdf8ea16d09" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2b7b3e94c1ad9384",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587771982882,
+        "stop" : 1587771988246,
+        "duration" : 5364
+      }
+    } ]
+  },
+  "aed6cffd13dd766c2ed48bca20914eb2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "27e61e59484ae2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587771952905,
+        "stop" : 1587771958498,
+        "duration" : 5593
+      }
+    } ]
+  },
+  "f0c27f9385105718747b6df9bf596087" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d5c3d94b53cf1688",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587772488207,
+        "stop" : 1587772497669,
+        "duration" : 9462
+      }
+    } ]
+  },
+  "ecf27aebeb87350961a49d56b32a04f3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e18617193b307b88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587772509386,
+        "stop" : 1587772522538,
+        "duration" : 13152
+      }
+    } ]
+  }
+}

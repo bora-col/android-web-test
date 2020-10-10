@@ -1,0 +1,82 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "smartdoorlocktestautomation.SmartDoorLock.Integration_Test.embedded_mobile",
+    "children" : [ {
+      "name" : "test_embedded_mobile",
+      "children" : [ {
+        "name" : "TestEmbeddedMobile",
+        "children" : [ {
+          "name" : "test_slide_garden_door",
+          "uid" : "d68d2f6c3e149b67",
+          "parentUid" : "6e55229c12131b4a6198320f01b74b6e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589891795540,
+            "stop" : 1589891801719,
+            "duration" : 6179
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_initial_state",
+          "uid" : "819133a1ebe89d01",
+          "parentUid" : "6e55229c12131b4a6198320f01b74b6e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589891841742,
+            "stop" : 1589891847973,
+            "duration" : 6231
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_open_the_door",
+          "uid" : "f566e9a49e2876f0",
+          "parentUid" : "6e55229c12131b4a6198320f01b74b6e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589892035446,
+            "stop" : 1589892046610,
+            "duration" : 11164
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_lock_the_door",
+          "uid" : "98ba4107b82c77fa",
+          "parentUid" : "6e55229c12131b4a6198320f01b74b6e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589892614211,
+            "stop" : 1589892624111,
+            "duration" : 9900
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_unlock_the_door",
+          "uid" : "1d46087dcd1169c3",
+          "parentUid" : "6e55229c12131b4a6198320f01b74b6e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589892639380,
+            "stop" : 1589892650024,
+            "duration" : 10644
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6e55229c12131b4a6198320f01b74b6e"
+      } ],
+      "uid" : "c585507fe3ab52d13cd1321110010501"
+    } ],
+    "uid" : "a4bea2a56d6bc496e53054e517ab63b4"
+  } ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.60585,0,0,0.60585,150,150)">
+        <g id="door--2-" serif:id="door (2)" transform="matrix(1,0,0,1,-239.333,-239.333)">
+            <path d="M71.553,0L71.553,478.085L407.114,478.666L407.114,0L71.553,0ZM103.109,446.583L103.109,31.558L375.554,31.558L375.554,88.371L364.773,88.371L364.773,42.086L113.893,42.086L113.893,436.554L364.774,436.554L364.774,390.27L375.555,390.27L375.555,447.055L103.109,446.583ZM364.773,137.459L375.554,137.459L375.554,341.18L364.773,341.18L364.773,137.459ZM165.787,239.32C165.787,248.468 158.369,255.886 149.219,255.886C140.069,255.886 132.651,248.468 132.651,239.32C132.651,230.17 140.069,222.752 149.219,222.752C158.369,222.752 165.787,230.17 165.787,239.32Z" style="fill:white;fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>

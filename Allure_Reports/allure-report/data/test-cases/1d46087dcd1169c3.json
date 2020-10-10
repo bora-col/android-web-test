@@ -1,0 +1,136 @@
+{
+  "uid" : "1d46087dcd1169c3",
+  "name" : "test_unlock_the_door",
+  "fullName" : "smartdoorlocktestautomation.SmartDoorLock.Integration_Test.embedded_mobile.test_embedded_mobile.TestEmbeddedMobile#test_unlock_the_door",
+  "historyId" : "a887b1be1f8a3df24cc9173a38d46024",
+  "time" : {
+    "start" : 1589892639380,
+    "stop" : 1589892650024,
+    "duration" : 10644
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1589892627492,
+      "stop" : 1589892639378,
+      "duration" : 11886
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "driver::fin",
+    "time" : {
+      "start" : 1589892650026,
+      "stop" : 1589892651735,
+      "duration" : 1709
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "smartdoorlocktestautomation.SmartDoorLock.Integration_Test.embedded_mobile"
+  }, {
+    "name" : "suite",
+    "value" : "test_embedded_mobile"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestEmbeddedMobile"
+  }, {
+    "name" : "host",
+    "value" : "User.local"
+  }, {
+    "name" : "thread",
+    "value" : "18968-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "smartdoorlocktestautomation.SmartDoorLock.Integration_Test.embedded_mobile.test_embedded_mobile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b6acfffb1238ae04",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert -1 == 1",
+      "time" : {
+        "start" : 1589892497762,
+        "stop" : 1589892508796,
+        "duration" : 11034
+      }
+    }, {
+      "uid" : "59d624397134824e",
+      "status" : "broken",
+      "statusDetails" : "json.decoder.JSONDecodeError: Extra data: line 1 column 44 (char 43)",
+      "time" : {
+        "start" : 1589892114140,
+        "stop" : 1589892117828,
+        "duration" : 3688
+      }
+    }, {
+      "uid" : "5c4f95d2e53b9e46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589892085840,
+        "stop" : 1589892094654,
+        "duration" : 8814
+      }
+    }, {
+      "uid" : "887a6a4ad2442703",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589892065502,
+        "stop" : 1589892067786,
+        "duration" : 2284
+      }
+    }, {
+      "uid" : "8363a3764e43e503",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589892007486,
+        "stop" : 1589892009615,
+        "duration" : 2129
+      }
+    }, {
+      "uid" : "9591e6fdb3789923",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589891957070,
+        "stop" : 1589891959531,
+        "duration" : 2461
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1d46087dcd1169c3.json",
+  "parameterValues" : [ ]
+}

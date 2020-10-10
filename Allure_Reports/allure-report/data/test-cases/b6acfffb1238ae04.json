@@ -1,0 +1,86 @@
+{
+  "uid" : "b6acfffb1238ae04",
+  "name" : "test_unlock_the_door",
+  "fullName" : "smartdoorlocktestautomation.SmartDoorLock.Integration_Test.embedded_mobile.test_embedded_mobile.TestEmbeddedMobile#test_unlock_the_door",
+  "historyId" : "a887b1be1f8a3df24cc9173a38d46024",
+  "time" : {
+    "start" : 1589892497762,
+    "stop" : 1589892508796,
+    "duration" : 11034
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert -1 == 1",
+  "statusTrace" : "self = <test_embedded_mobile.TestEmbeddedMobile object at 0x107a1dee0>\ndriver = <appium.webdriver.webdriver.WebDriver (session=\"27ac3fdb-9078-422d-8532-3be11eb78f0e\")>\n\n    def test_unlock_the_door(self, driver):\n        edge_to_call = getattr(globals()['TestEmbeddedMobile'](), self.my_came_from)\n        edge_to_call(driver)\n        office_id, status, data = ParseData.parse_data(self.data_json_path)\n        print(\"\\nData:\" + str(status))\n>       assert status == 1\nE       assert -1 == 1\n\nIntegration_Test/embedded_mobile/test_embedded_mobile.py:191: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1589892484499,
+      "stop" : 1589892497759,
+      "duration" : 13260
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "driver::fin",
+    "time" : {
+      "start" : 1589892508954,
+      "stop" : 1589892510486,
+      "duration" : 1532
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "smartdoorlocktestautomation.SmartDoorLock.Integration_Test.embedded_mobile"
+  }, {
+    "name" : "suite",
+    "value" : "test_embedded_mobile"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestEmbeddedMobile"
+  }, {
+    "name" : "host",
+    "value" : "User.local"
+  }, {
+    "name" : "thread",
+    "value" : "18729-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "smartdoorlocktestautomation.SmartDoorLock.Integration_Test.embedded_mobile.test_embedded_mobile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b6acfffb1238ae04.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,37 @@
+{
+  "total" : 3,
+  "items" : [ {
+    "uid" : "f7051d28fa47dcdef8a85a43baedda03",
+    "name" : "smartdoorlocktestautomation.SmartDoorLock.System_Test",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "2cc3f2a6901b87ee1ab1d4999116b586",
+    "name" : "Integration_Test.embedded_mobile",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "5c377f664e2103077e4ae2142852dd59",
+    "name" : "smartdoorlocktestautomation.SmartDoorLock.Integration_Test.embedded_web",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

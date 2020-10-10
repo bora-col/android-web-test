@@ -1,0 +1,84 @@
+{
+  "uid" : "7692f29016c95a26",
+  "name" : "test_lock_the_door",
+  "fullName" : "Integration_Test.embedded_mobile.test_embedded_mobile.TestEmbeddedMobile#test_lock_the_door",
+  "historyId" : "ecf27aebeb87350961a49d56b32a04f3",
+  "time" : {
+    "start" : 1587772191289,
+    "stop" : 1587772197536,
+    "duration" : 6247
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1587772182172,
+      "stop" : 1587772191284,
+      "duration" : 9112
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "driver::fin",
+    "time" : {
+      "start" : 1587772197536,
+      "stop" : 1587772198185,
+      "duration" : 649
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Integration_Test.embedded_mobile"
+  }, {
+    "name" : "suite",
+    "value" : "test_embedded_mobile"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestEmbeddedMobile"
+  }, {
+    "name" : "host",
+    "value" : "User.local"
+  }, {
+    "name" : "thread",
+    "value" : "17605-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Integration_Test.embedded_mobile.test_embedded_mobile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7692f29016c95a26.json",
+  "parameterValues" : [ ]
+}

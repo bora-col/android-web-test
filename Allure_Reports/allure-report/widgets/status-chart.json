@@ -1,0 +1,51 @@
+[ {
+  "uid" : "98ba4107b82c77fa",
+  "name" : "test_lock_the_door",
+  "time" : {
+    "start" : 1589892614211,
+    "stop" : 1589892624111,
+    "duration" : 9900
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "819133a1ebe89d01",
+  "name" : "test_initial_state",
+  "time" : {
+    "start" : 1589891841742,
+    "stop" : 1589891847973,
+    "duration" : 6231
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d68d2f6c3e149b67",
+  "name" : "test_slide_garden_door",
+  "time" : {
+    "start" : 1589891795540,
+    "stop" : 1589891801719,
+    "duration" : 6179
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f566e9a49e2876f0",
+  "name" : "test_open_the_door",
+  "time" : {
+    "start" : 1589892035446,
+    "stop" : 1589892046610,
+    "duration" : 11164
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d46087dcd1169c3",
+  "name" : "test_unlock_the_door",
+  "time" : {
+    "start" : 1589892639380,
+    "stop" : 1589892650024,
+    "duration" : 10644
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

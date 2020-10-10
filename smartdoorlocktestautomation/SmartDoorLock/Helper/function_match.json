@@ -1,0 +1,12 @@
+{
+	"v_Start" : "",
+	"v_initial_em" : "Integration_Test/embedded_mobile/test_embedded_mobile.py::TestEmbeddedMobile::test_initial_state",
+	"v_door_unlocked" : "Integration_Test/embedded_mobile/test_embedded_mobile.py::TestEmbeddedMobile::test_unlock_the_door",
+	"v_door_opened" : "Integration_Test/embedded_mobile/test_embedded_mobile.py::TestEmbeddedMobile::test_open_the_door",
+	"v_door_locked" : "Integration_Test/embedded_mobile/test_embedded_mobile.py::TestEmbeddedMobile::test_lock_the_door",
+	"v_garden_door_opened" : "Integration_Test/embedded_mobile/test_embedded_mobile.py::TestEmbeddedMobile::test_slide_garden_door",
+	"v_door_unlocked_sys" : "System_Test/system_test.py::TestMobileApp::test_unlock_the_door_sys",
+	"v_door_locked_sys" : "System_Test/system_test.py::TestMobileApp::test_lock_the_door_sys",
+	"v_door_opened_sys" : "System_Test/system_test.py::TestMobileApp::test_open_the_door_sys"
+
+}

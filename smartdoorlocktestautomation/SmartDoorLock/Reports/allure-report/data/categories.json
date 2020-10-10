@@ -1,0 +1,39 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.WebDriverException: Message: Method is not implemented",
+      "children" : [ {
+        "name" : "test_lock_the_door_sys",
+        "uid" : "fbedf6f9036c68aa",
+        "parentUid" : "2c55a6dc70f6be747e04f240f401d26e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1587782744241,
+          "stop" : 1587782747517,
+          "duration" : 3276
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_open_the_door_sys",
+        "uid" : "25824d4ada08757b",
+        "parentUid" : "2c55a6dc70f6be747e04f240f401d26e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1587782788285,
+          "stop" : 1587782791723,
+          "duration" : 3438
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2c55a6dc70f6be747e04f240f401d26e"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

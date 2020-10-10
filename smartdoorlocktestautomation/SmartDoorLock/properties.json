@@ -1,0 +1,27 @@
+{
+  "deviceName": "Android Emulator",
+  "platformName": "Android",
+  "appPackage": "com.bissdoor",
+  "apkPath": "/mobile/app-release.apk",
+  "appWaitActivity": "com.bissdoor.MainActivity",
+  "noReset": "true",
+  "automationName": "UiAutomator2",
+  "URL": "http://35.194.42.231:4444//?",
+  "password": "password=mobile",
+  "path": "/socket",
+
+  "ActivateAlarmButtonXpath": "/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.Button[2]",
+  "DoorStatusTextXpath": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView[2]",
+  "OpenDoorSliderXpath": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.widget.ImageView",
+  "OpenDoorSliderAreaXpath": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]",
+  "OpenTheDoorButtonXpath": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[3]",
+  "LockTheDoorButtonXpath": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[4]/android.view.ViewGroup/android.widget.TextView",
+  "DoNothingButtonXpath": "/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.Button[1]",
+  "PopupAreaXpath": "/hierarchy/android.widget.FrameLayout",
+
+  "AdminPanelUrl": "http://localhost:5000/",
+  "DoorStatusXpath": "/*[@id=\"root\"]/div[1]/main/div/div[2]/div[2]/div/div/div/div[1]/div[2]",
+  "appiumdriver": "http://localhost:4723/wd/hub",
+  "chromedriver": "/driver/chromedriver"
+
+}

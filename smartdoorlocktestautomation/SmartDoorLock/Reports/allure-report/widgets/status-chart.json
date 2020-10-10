@@ -1,0 +1,121 @@
+[ {
+  "uid" : "8b3003bc5f3c5a59",
+  "name" : "test_click_on_the_lock_the_door_button_once",
+  "time" : {
+    "start" : 1587782638815,
+    "stop" : 1587782642685,
+    "duration" : 3870
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d15b943f20d3586",
+  "name" : "test_open_the_door",
+  "time" : {
+    "start" : 1587771649202,
+    "stop" : 1587771660485,
+    "duration" : 11283
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb7577465c7a6260",
+  "name" : "test_door_status",
+  "time" : {
+    "start" : 1587781250794,
+    "stop" : 1587781253716,
+    "duration" : 2922
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e18617193b307b88",
+  "name" : "test_lock_the_door",
+  "time" : {
+    "start" : 1587772509386,
+    "stop" : 1587772522538,
+    "duration" : 13152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a8a81431fcf50c3",
+  "name" : "test_click_on_the_open_the_door_button_once",
+  "time" : {
+    "start" : 1587781651239,
+    "stop" : 1587781655070,
+    "duration" : 3831
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd2a20aa4c52dde2",
+  "name" : "test_click_on_the_open_the_door_button_twice",
+  "time" : {
+    "start" : 1587781752722,
+    "stop" : 1587781756626,
+    "duration" : 3904
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b7b3e94c1ad9384",
+  "name" : "test_initial_state",
+  "time" : {
+    "start" : 1587771982882,
+    "stop" : 1587771988246,
+    "duration" : 5364
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27e61e59484ae2e",
+  "name" : "test_slide_garden_door",
+  "time" : {
+    "start" : 1587771952905,
+    "stop" : 1587771958498,
+    "duration" : 5593
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3abf8d9b7c7d767",
+  "name" : "test_click_on_the_lock_the_door_button_twice",
+  "time" : {
+    "start" : 1587782580868,
+    "stop" : 1587782587040,
+    "duration" : 6172
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d5c3d94b53cf1688",
+  "name" : "test_unlock_the_door",
+  "time" : {
+    "start" : 1587772488207,
+    "stop" : 1587772497669,
+    "duration" : 9462
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fbedf6f9036c68aa",
+  "name" : "test_lock_the_door_sys",
+  "time" : {
+    "start" : 1587782744241,
+    "stop" : 1587782747517,
+    "duration" : 3276
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "25824d4ada08757b",
+  "name" : "test_open_the_door_sys",
+  "time" : {
+    "start" : 1587782788285,
+    "stop" : 1587782791723,
+    "duration" : 3438
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

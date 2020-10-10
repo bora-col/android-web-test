@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue May 19 15:50:14 EET 2020","Tue May 19 15:50:24 EET 2020","9900","smartdoorlocktestautomation.SmartDoorLock.Integration_Test.embedded_mobile","test_embedded_mobile","TestEmbeddedMobile","","","test_lock_the_door",""
+"passed","Tue May 19 15:37:21 EET 2020","Tue May 19 15:37:27 EET 2020","6231","smartdoorlocktestautomation.SmartDoorLock.Integration_Test.embedded_mobile","test_embedded_mobile","TestEmbeddedMobile","","","test_initial_state",""
+"passed","Tue May 19 15:36:35 EET 2020","Tue May 19 15:36:41 EET 2020","6179","smartdoorlocktestautomation.SmartDoorLock.Integration_Test.embedded_mobile","test_embedded_mobile","TestEmbeddedMobile","","","test_slide_garden_door",""
+"passed","Tue May 19 15:40:35 EET 2020","Tue May 19 15:40:46 EET 2020","11164","smartdoorlocktestautomation.SmartDoorLock.Integration_Test.embedded_mobile","test_embedded_mobile","TestEmbeddedMobile","","","test_open_the_door",""
+"passed","Tue May 19 15:50:39 EET 2020","Tue May 19 15:50:50 EET 2020","10644","smartdoorlocktestautomation.SmartDoorLock.Integration_Test.embedded_mobile","test_embedded_mobile","TestEmbeddedMobile","","","test_unlock_the_door",""

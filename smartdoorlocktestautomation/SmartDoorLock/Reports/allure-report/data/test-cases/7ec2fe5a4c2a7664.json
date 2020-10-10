@@ -1,0 +1,86 @@
+{
+  "uid" : "7ec2fe5a4c2a7664",
+  "name" : "test_unlock_the_door",
+  "fullName" : "Integration_Test.embedded_mobile.test_embedded_mobile.TestEmbeddedMobile#test_unlock_the_door",
+  "historyId" : "f0c27f9385105718747b6df9bf596087",
+  "time" : {
+    "start" : 1587772357701,
+    "stop" : 1587772366560,
+    "duration" : 8859
+  },
+  "status" : "broken",
+  "statusMessage" : "json.decoder.JSONDecodeError: Extra data: line 1 column 44 (char 43)",
+  "statusTrace" : "self = <test_embedded_mobile.TestEmbeddedMobile object at 0x10eb6f3a0>\ndriver = <appium.webdriver.webdriver.WebDriver (session=\"cdc44d12-3cc1-4f57-94dd-325e05ad5d38\")>\n\n    def test_unlock_the_door(self, driver):\n        edge_to_call = getattr(globals()['TestEmbeddedMobile'](), self.my_came_from)\n        edge_to_call(driver)\n>       office_id, status, data = ParseData.parse_data(self.data_json_path)\n\nIntegration_Test/embedded_mobile/test_embedded_mobile.py:186: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \nHelper/parse_data.py:30: in parse_data\n    data = json.load(json_file)\n/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py:293: in load\n    return loads(fp.read(),\n/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py:357: in loads\n    return _default_decoder.decode(s)\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nself = <json.decoder.JSONDecoder object at 0x10dce2430>\ns = '{\"door_id\": 2, \"office_id\": 1, \"status\": 1}d\": 1}'\n_w = <built-in method match of re.Pattern object at 0x10dc8dab0>\n\n    def decode(self, s, _w=WHITESPACE.match):\n        \"\"\"Return the Python representation of ``s`` (a ``str`` instance\n        containing a JSON document).\n    \n        \"\"\"\n        obj, end = self.raw_decode(s, idx=_w(s, 0).end())\n        end = _w(s, end).end()\n        if end != len(s):\n>           raise JSONDecodeError(\"Extra data\", s, end)\nE           json.decoder.JSONDecodeError: Extra data: line 1 column 44 (char 43)\n\n/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py:340: JSONDecodeError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1587772348442,
+      "stop" : 1587772357699,
+      "duration" : 9257
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "driver::fin",
+    "time" : {
+      "start" : 1587772366703,
+      "stop" : 1587772367403,
+      "duration" : 700
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Integration_Test.embedded_mobile"
+  }, {
+    "name" : "suite",
+    "value" : "test_embedded_mobile"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestEmbeddedMobile"
+  }, {
+    "name" : "host",
+    "value" : "User.local"
+  }, {
+    "name" : "thread",
+    "value" : "18067-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Integration_Test.embedded_mobile.test_embedded_mobile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7ec2fe5a4c2a7664.json",
+  "parameterValues" : [ ]
+}

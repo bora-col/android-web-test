@@ -1,0 +1,116 @@
+{
+  "uid" : "8b3003bc5f3c5a59",
+  "name" : "test_click_on_the_lock_the_door_button_once",
+  "fullName" : "smartdoorlocktestautomation.SmartDoorLock.System_Test.system_test.TestMobileApp#test_click_on_the_lock_the_door_button_once",
+  "historyId" : "f3564dca8442a79e2e1fb7896d66ef94",
+  "time" : {
+    "start" : 1587782638815,
+    "stop" : 1587782642685,
+    "duration" : 3870
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1587782627860,
+      "stop" : 1587782638811,
+      "duration" : 10951
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "chrome_driver_init",
+    "time" : {
+      "start" : 1587782625010,
+      "stop" : 1587782627860,
+      "duration" : 2850
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "driver::fin",
+    "time" : {
+      "start" : 1587782642686,
+      "stop" : 1587782643748,
+      "duration" : 1062
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "chrome_driver_init::0",
+    "time" : {
+      "start" : 1587782643750,
+      "stop" : 1587782643860,
+      "duration" : 110
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "smartdoorlocktestautomation.SmartDoorLock.System_Test"
+  }, {
+    "name" : "suite",
+    "value" : "system_test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMobileApp"
+  }, {
+    "name" : "host",
+    "value" : "User.local"
+  }, {
+    "name" : "thread",
+    "value" : "23801-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "smartdoorlocktestautomation.SmartDoorLock.System_Test.system_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8b3003bc5f3c5a59.json",
+  "parameterValues" : [ ]
+}

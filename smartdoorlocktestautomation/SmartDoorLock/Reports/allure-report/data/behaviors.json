@@ -1,0 +1,161 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_open_the_door",
+    "uid" : "5d15b943f20d3586",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1587771649202,
+      "stop" : 1587771660485,
+      "duration" : 11283
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_slide_garden_door",
+    "uid" : "27e61e59484ae2e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1587771952905,
+      "stop" : 1587771958498,
+      "duration" : 5593
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_initial_state",
+    "uid" : "2b7b3e94c1ad9384",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1587771982882,
+      "stop" : 1587771988246,
+      "duration" : 5364
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_unlock_the_door",
+    "uid" : "d5c3d94b53cf1688",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1587772488207,
+      "stop" : 1587772497669,
+      "duration" : 9462
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_lock_the_door",
+    "uid" : "e18617193b307b88",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1587772509386,
+      "stop" : 1587772522538,
+      "duration" : 13152
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_door_status",
+    "uid" : "bb7577465c7a6260",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1587781250794,
+      "stop" : 1587781253716,
+      "duration" : 2922
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_click_on_the_open_the_door_button_once",
+    "uid" : "6a8a81431fcf50c3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1587781651239,
+      "stop" : 1587781655070,
+      "duration" : 3831
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_click_on_the_open_the_door_button_twice",
+    "uid" : "fd2a20aa4c52dde2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1587781752722,
+      "stop" : 1587781756626,
+      "duration" : 3904
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_click_on_the_lock_the_door_button_twice",
+    "uid" : "3abf8d9b7c7d767",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1587782580868,
+      "stop" : 1587782587040,
+      "duration" : 6172
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_click_on_the_lock_the_door_button_once",
+    "uid" : "8b3003bc5f3c5a59",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1587782638815,
+      "stop" : 1587782642685,
+      "duration" : 3870
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_lock_the_door_sys",
+    "uid" : "fbedf6f9036c68aa",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1587782744241,
+      "stop" : 1587782747517,
+      "duration" : 3276
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_open_the_door_sys",
+    "uid" : "25824d4ada08757b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1587782788285,
+      "stop" : 1587782791723,
+      "duration" : 3438
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "a4bea2a56d6bc496e53054e517ab63b4",
+    "name" : "smartdoorlocktestautomation.SmartDoorLock.Integration_Test.embedded_mobile",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  } ]
+}
